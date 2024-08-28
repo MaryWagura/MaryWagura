@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://rishavchanda.io">
-    <img src="https://img.freepik.com/premium-vector/coding-programming-application-development-concept-young-black-woman-programmer-sitting-big-laptop-working-flat-style-banner-design_285336-2366.jpg" width=80% alt="MasterHead"  />
+    <img src="https://img.freepik.com/premium-vector/coding-programming-application-development-concept-young-black-woman-programmer-sitting-big-laptop-working-flat-style-banner-design_285336-2366.jpg" width=90% alt="MasterHead"  />
   </a>
 </p>
 <h1 align="center">Hi 👋, I'm Mary Wagura</h1>
