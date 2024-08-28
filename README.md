@@ -15,13 +15,13 @@
 - ⚡ Fun fact **I think I'm hilarious.**
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marywagura" alt="marywagura" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marywagura" alt="marywagura"/></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/marywagura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marywagura" height="20" width="40" /></a>
 </p>
 
-<p><img align="center" style="border: 1px solid yellow;" width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=marywagura&" alt="marywagura" /></p>
+<p><img align="center" style="border: 1px solid yellow;" width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=marywagura&" alt="marywagura" /></p>
 <table width="100%" style="border: 1px solid yellow;">
   <tr>
     <td align="left" width="50%">
