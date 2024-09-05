@@ -25,7 +25,7 @@
 <table width="100%" style="border: 1px solid yellow;">
   <tr>
     <td align="left" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marywagura&show_icons=true&locale=en&layout=compact" alt="marywagura" style="width: 100%;" />
+      <img src="https://github-readme-stats-git-master-mary-waguras-projects.vercel.app/api/top-langs?username=marywagura&show_icons=true&locale=en&layout=compact" alt="marywagura" style="width: 100%;" />
     </td>
     <td align="right" width="50%">
       <a href="(https://github.com/ryo-ma/github-profile-trophy](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)">
