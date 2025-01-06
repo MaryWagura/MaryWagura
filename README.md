@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 💬 Ask me about **Java & PHP**
+- 💬 Ask me about **Java & JS**
 
 - ⚡ Fun fact **I think I'm hilarious.**
 
