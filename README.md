@@ -6,11 +6,11 @@
 <h1 align="center">Hi 👋, I'm Mary Wagura</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-- 🔭 I’m currently working on **Node APIs**
+- 🔭 I’m currently working on **Python Fundamentals**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Py**
 
-- 💬 Ask me about **Java & JS**
+- 💬 Ask me about **Java & NodeJS**
 
 - ⚡ Fun fact **I think I'm hilarious.**
 
