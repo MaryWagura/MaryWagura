@@ -86,6 +86,8 @@
 </p>
 
 ---
+### 🚀 Let's Chat
+**Got an interesting project to work on? Ping me—let's connect and build something great!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
