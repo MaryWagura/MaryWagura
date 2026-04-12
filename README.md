@@ -88,7 +88,7 @@
 <table width="100%">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=marywagura&theme=radical&show_icons=true" alt="Mary's Stats" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=marywagura&theme=radical&show_icons=true" alt="Mary's Stats" />
     </td>
   </tr>
 </table>
