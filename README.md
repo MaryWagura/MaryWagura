@@ -5,6 +5,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Mary Wagura</h1>
+<h3 align="center"><i>Good to have you here.</i></h3>
 <h3 align="center">Backend Software Engineer | MSc AI & Automation Student | Future Automotive Engineer</h3>
 
 <p align="center">
