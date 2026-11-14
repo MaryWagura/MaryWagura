@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://yourwebsite.io">
+  <a href="https://github.com/MaryWagura">
     <img src="https://img.freepik.com/premium-vector/coding-programming-application-development-concept-young-black-woman-programmer-sitting-big-laptop-working-flat-style-banner-design_285336-2366.jpg" height=250px alt="MasterHead" />
   </a>
 </p>
@@ -12,16 +12,31 @@
   <i>Currently in Sweden, bridging the gap between robust backend systems and autonomous machines.</i>
 </p>
 
-- 🔭 **The Current Mission:** Enhancing SAR (Synthetic Aperture Radar) images using **SRGANs** and **EDSR**. Transforming grainy satellite data into something usable.
-- 🏗️ **The Engineering Foundation:** A deep background in building scalable services with **Java (Spring Boot)**, **Node.js**, and **TypeScript**. I build systems that don't just work; they scale.
-- 🌱 **Expanding the Horizon:** Deep Diving deep into the pillars of **AI & Automation**:
-    - **Vision & Intelligence:** Deep Learning, CNNs, and Computer Vision (making SAR images look like 4K).
-    - **Industrial Logic:** PLC Programming (TwinCAT) for everything from windmills to elevators.
-    - **Robotics:** Mastering ABB RobotStudio and RAPID to ensure robots move exactly where they’re supposed to.
+- 🔭 **The Current Mission:** Teaching robots to see. I'm building an AI vision pick-and-place cell where a Raspberry Pi camera spots the part, works out where it is, and tells an **ABB robot** where to go, plus research on predicting (and explaining) why a robot grasp fails in a cluttered bin.
+- 🏗️ **The Engineering Foundation:** Years of backend fintech work building high-volume transaction services with **Java (Spring Boot)**, **Node.js**, and **TypeScript**. I build systems that don't just work; they scale.
+- 🎧 **Summer 2026:** R&D intern at **Ericsson**, working on immersive audio. Lots of C, the Android NDK, and a newfound respect for build systems.
+- 🌱 **Expanding the Horizon:** Diving deep into the pillars of **AI & Automation**:
+    - **Vision & Intelligence:** Deep learning, CNNs, and computer vision, from satellite radar images to shapes on a robot's workbench.
+    - **Industrial Logic:** PLC programming (TwinCAT) for everything from windmills to elevators.
+    - **Robotics & Control:** ABB RobotStudio and RAPID, plus modelling and control in MATLAB/Simulink, to make sure robots move exactly where they're supposed to.
+    - **Agents:** Multi-agent systems and LLM planners that let machines negotiate who does what.
     - **The Goal:** Basically, I'm learning how to build the "brain" and the "body" of the future.
-- 🏎️ **Automotive & Robotics:** Exploring the intersection of **Embedded Systems** and AI. Programming **ABB Robots (RAPID)** and designing **PLC** logic (**TwinCAT**). 
-- 💬 **Ask me about:** Distributed systems, microservices, or why I’m trying to give a robot a personality through code.
-- ⚡ **Fun fact:** I moved to Sweden for the Masters, but I’m mostly here to see if I can program a car to find the best Fika spot. 
+- 🎓 **Looking for:** A **master thesis project for 2027** in machine vision, ML, or robotics. If that sounds like your team, let's talk.
+- 💬 **Ask me about:** Distributed systems, microservices, or why I'm trying to give a robot a personality through code.
+- ⚡ **Fun fact:** I moved to Sweden for the Masters, but I'm mostly here to see if I can program a car to find the best Fika spot. Jag lär mig svenska också, one fika at a time.
+
+---
+
+### 🧪 What I've Been Building
+
+| Project | What it is | Built with |
+| --- | --- | --- |
+| 🤖 **[AI Vision Pick-and-Place](https://github.com/MaryWagura/Vision_System)** | A camera finds and classifies shapes, converts pixels to robot coordinates using an ArUco marker, and sends pick targets to an ABB robot over TCP. | Python, OpenCV, Raspberry Pi, ABB RAPID |
+| 🛰️ **[SAR Super-Resolution](https://github.com/MaryWagura/SAR-SuperResolution)** | A benchmark of super-resolution models for turning grainy satellite radar images into something usable. | PyTorch, SRCNN, EDSR, SRGAN, ESRGAN |
+| 🏭 **[Multi-Agent Manufacturing Cell](https://github.com/MaryWagura/Multi-Agent_Control_of_a_Manufacturing_Cell)** | Agents that coordinate a manufacturing cell between themselves, with an **[LLM planner](https://github.com/MaryWagura/Multi-Agent_Control_of_a_Manufacturing_Cell_LLM_Planner)** version that plans the work. | Java, JADE, Ollama, AutoGen |
+| 🎯 **Bullseye** | A risk analyzer for legacy embedded code, built at the Gothenburg Tech Week hackathon (Saab track, 2026). | Hackathon speed and coffee |
+| 🎰 **Casino Chip Classifier** | A CNN that tells casino chips apart, wired into PLC logic so the machine can act on what it sees. | Python, CNNs, TwinCAT |
+| 📐 **T-bot Modelling & Control** | Modelling and control design for an XZ T-bot robot, from the equations of motion to a working controller in simulation. | MATLAB, Simulink |
 
 ---
 
@@ -71,16 +86,24 @@
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></td>  
     <td><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/></td>  
     <td><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle" width="40" height="40"/></td>  
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/></td>  
     <td><code title="Scikitlearn">Scikitlearn</code></td> 
+    <td><code title="XGBoost">XGBoost</code></td> 
     <td><code title="Matplotlib">Matplotlib</code></td>
+    <td><code title="Ollama / AutoGen">Ollama/AutoGen</code></td>
 </tr></table>
 
 **Automation & Embedded**
 <table><tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></td> 
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></td> 
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/></td> 
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/></td> 
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/></td> 
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></td> 
     <td><code title="ABB RAPID">ABB RAPID</code></td>  
     <td><code title="TwinCAT / PLC">TwinCAT/PLC</code></td> 
+    <td><code title="JADE">JADE</code></td> 
 </tr></table>
 
 ---
